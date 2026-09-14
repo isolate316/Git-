@@ -1,5 +1,5 @@
 hello Git!
 这是我的第一个Git练习。
 我正在学习Git。
-这是第三次修改
+这是master分支的修改。
 这是test分支的内容。
