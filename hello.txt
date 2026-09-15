@@ -4,3 +4,4 @@ hello Git!
 这是master和test合并后的内容。
 这是test分支的内容。
 我已经学会把代码上传到GitHub。
+这是电脑A发送给电脑B的内容。
